@@ -1,0 +1,19 @@
+{
+  "name": "repeated-string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbrantley4/repeated-string.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbrantley4/repeated-string/issues"
+  },
+  "homepage": "https://github.com/cbrantley4/repeated-string#readme"
+}
